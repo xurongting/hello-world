@@ -1,3 +1,2 @@
-# hello-world
-haksjdhfkjasd fasdkjfhkjs dl
-dfgfdgf
+mdn
+Mozilla splash page
